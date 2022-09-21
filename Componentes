@@ -54,3 +54,5 @@ SDRAM(synchronous dynamic ram)
 
 Este tipo de memoria funciona en sincronia con el procesador, lo que significa que espera la señal de reloj antes de 
 responder.
+
+SDR SDRAM(single dara rate synchronous dynamic ram)
