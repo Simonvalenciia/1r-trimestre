@@ -35,3 +35,22 @@ teclado, etc.
 
 ¿Que es la RAM?
 
+La memoria de acceso aleatorio(RAM) viene del ingles con sus siglas Random Access Memory, es una memoria de almacenamiento
+a corto plazo. El sistema operativo de ordeandores y otros dispositivos utiliza la memoria RAM para almacenar de forma 
+temporal todos los programas y sus procecos de ejecucion.
+
+Tipos de RAM:
+
+Hay diferentes tipos de ram utilizados en el ordenador los cuales son:
+SRAM, DRAM, SDRAM, SDR SDRAM, DDR SDRAM, GDDR SRAM.
+
+La SRAM(static ram) se trata de uno de los dos tipos básicos de memoria no neceista estar refrescandose para ver que datos 
+tiene en su interior de ahi su nombre 
+
+DRAM(Dynamic RAM) este tipo de ram necesita un refresco periódico de los de los datos de su interior porque tienen condensadores 
+que periodicamente se ven descargando.
+
+SDRAM(synchronous dynamic ram)
+
+Este tipo de memoria funciona en sincronia con el procesador, lo que significa que espera la señal de reloj antes de 
+responder.
