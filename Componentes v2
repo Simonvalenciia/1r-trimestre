@@ -1,0 +1,58 @@
+¿Que es una tarjeta grafica? 
+
+Una tarjeta gráfica es un componente electrónico que se encarga de procesar la infomacion que le llega al dispositivo
+para que despues sea mostrada al usuario visualmente mediante un monitor.Cuando se dice tarjeta grafica se refiere al conjunto 
+de la placa impresa junto con todos los chips y controladores fisicos necesarios, pero normalmente se suele abreviar como GPU,
+que es enspañol significa junidad de procesamiento grafico.hay que diferenciar entre tarjeta grafica dedicada e integrada.
+Una GPU dedicada hace referencia a una tarjeta grafica de tamaño completo que se inserta en un PCle de la placa base, mientras 
+que la integrada va dentro del propio  procesador, consumiendo muicho menos, sin ocupar espacio adicional y dando potencia
+suficiente para correr algunos videojuegos no muy exigentes 
+
+¿Para que sirve?
+
+La tarjeta gráfica sirve como output para el usuario, de manera que este puede ver la interaccion con el equipo a tiempo real.
+Un ordenador puede encenderse sin la tarjeta grafica alguna(dedicada o integrada) pero no mostrara nada por la pantalla y,por ende,
+no sabremos que estamos haciendo. Dependiendo de la categoria de la tarjeta grafica, podra sacar unos juegfos u otros al maximo detalle,
+ademas de tener en cuenta la resolucion de la panta y la frecuencia de refresco de la misma. Actualmente, con tecincas como
+G-Sync o FreeSync es posible ajustar los fps(Frames Por Segundo) de la salida de la grafica a los Hz de la salida del monitor,
+eliminado asi tediosos problemas como el Tearin y el input-lag.
+La tarnjeta grafica es uno de los elementos que mas posibilidades tiene para ser el overclockeado, aumentando asi su 
+rendimiento para poder explrimir todavia mas esos circuitos. En resumen una tarjeta grafica es indispensable para el uso de un ordenador,
+mientras que las dedicadas son mas usuales en ordenadores con requisitos altos de potencia.
+
+¿Que es una VRAM?
+
+En el caso de la tarjeta grafica, coge los datos que necesita para realizar un trabajo de la VRAM, siendo esta la funcion de este tipo
+de memoria de vídeo(Video Random Access Memory, VRAM): almacenar los datos que necesita la GPU para poder trabajar. Dicho de otra manera
+es un tipo de memoria RAM que esta diseñada para ser empleada unicamente con tarjetas graficas por lo que su rendimiento es muchisimo 
+mas rapido.
+En la memoria VRAM se cargan las texturas y los modelos que la GPU va a utilizar y procesar para crear la imagen despues. Por tanto, es muy importante 
+que nuestra tarjeta grafica psea suficiente memoria VRAM. De lo contrario, todos estos datos se deberian almacenar en nuestras unidades 
+de almacenamiento que iran mas lento que en comparacion a hacerlo con la VRAM.
+
+¿Que es un disco duro? 
+
+La unidad de disco duro(en ingles: hard disk drive HDD) es un dispositivo de almacenamiento de datos que emplea un sistema de grabacion
+magnetica para almacenar y recuperar archivos digitales. Se compone de uno o mas platos o discos rigidos, recubiertos con material 
+magnetico y unidos por un mismo eje que gira a gran velocidad dentro de una caja metalica sellada.
+
+¿Disco duro magnetico o mecanico?
+
+La gran diferencia es que mientras los discos duros utilizan componentes mecanicos que se mueven las SSD almacenan
+los archivos en microchips con memorias flash interconectadas entre sí. Por lo tanto, casí podriamos considerarlos como una evolucion de memorias USB.
+
+¿Que es una SSD?
+
+Un SSD es un dispositivo que almacena datos usualmente estando este dentro del ordenador. Estas unidades de almacenamiento mejoran
+por mucho en velocidades y latencias a los HDD, que son los discos duros de toda la vida. Las siglas SSD provienen del nombre de 
+Solidad State Disk(Disco de Estado Sólido) haciendo alusion a dispositivos que no tienen ni un solo movimiento mecanico en su interior 
+al contrario que los HDD.
+
+
+¿Que es la refigeración?
+
+El sistema de refigeración es la que se encarga de eliminar el exceso de calor de un CPU o computador ya sea de escritorio a laptop.
+La clasificacion de los tipos de refigeración es de acuerdo a los dispositivos que utlizara el ordenador, la refigeracion por aire 
+y la refigeracion liquida.
+
+¿Como f ?
