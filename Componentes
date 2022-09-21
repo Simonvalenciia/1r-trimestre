@@ -1,6 +1,7 @@
 ¿Que es una fuente de alimentacion?
 Una fuente de alimentación convierte la corriente alterna(AC) en una forma continua de energia que los componentes
 necesitan para funcionar,llamada corriente continua(DC).
+
 Diferentes tipos de fuente de alimentación:
 Un tipo de fuente de alimentacion es (AC/DC) que es una fuente que tiene corriente alterna(AC) y corriente continua(DC)
 Otro tipo de fuente de alimentacipn es (DC/DC) que es una fuente de alimentacion utilizada en electronica que puede cambiar
@@ -13,15 +14,24 @@ Diferentes tipos de potencias:
 Los voltajes tipicos de una fuente de alimentación son:
 3.3 y 5 voltios son los que se utilizan en los circuitos digitales.
 Mientras que los de 12 voltios se utlizan para hacer funcionar motores en unidades de disco y ventiladores
+
 ¿Que es la CPU?
+
 La CPU es la unidad central de procesamiento las siglas vienen del ingles que son Central processing unit o procesador 
 es un componente del hardware dentro de un ordenador, un telefono inteligente y otros dispositivos programables.
+
 ¿Que es una placa base?
+
 Una placa base es el componente común donde se interconectan todos los demás componentes en cualquier dispositivo electrónico.
 Hay diferentes tipos de placa base, la placa base grande es una de ellas hay diferentes marcas que venden estas y son las siguentes:
 Asus, MSI, ASRock. El otro tipo de placas base son las pequeñas y son las siguentes: ASrock, MSI, ELEGOO, STM. 
 Las diferencias son las siguientes 
+
 ¿Que son los Chipsets?
+
 Un chipset es un GPU(circuito integrado auxiliar) es el conjunto de circuitos integrados diseñados con base a la construcción
 de un procesador. Sirven de puente de comunicación con el resto de componentes de la placa como la memoria, los puertos USB, ratón,
 teclado, etc.
+
+¿Que es la RAM?
+
