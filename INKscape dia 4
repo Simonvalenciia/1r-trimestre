@@ -1,0 +1,4 @@
+Abrimos el programa y cambiamos las medidas del documento a 600x300mm 
+Hemos hecho un cuadrado de 80x80mm sin relleno y solo el borde para que la maquina laser puede hacer el contorno.
+Cambiamos el color del borde a rojo y el relleno de lo que queramos a color negro para que asi la maquina detecte y tenga diferentes potencias 
+a la horad e cortar y hacer el contorno.
