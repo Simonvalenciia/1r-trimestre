@@ -1,0 +1,5 @@
+Lo primero al iniciar el programa es cambiar las medidas a 600x300.
+Despues hacemos ocho secciones para poner cuadrados de 120x120 dentro.
+Dentro de una de las secciones hacemos nueve cuadrados de 20x20 a una distancia de 40.
+Dentro de otra seccion hacemos lo mismo pero con circulos. 
+En otra seccion hacemos lo mismo pero esta vez con rombos.
