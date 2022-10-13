@@ -1,0 +1,10 @@
+El primer proyecto/ Interfaz de nave espacial.
+
+Para hacer el primer proyecto he necesitado 1 interrupto, 3 leds, 3 resistencias de 220 ohmios y una resistencia de 10 kiloohmios.
+
+Para que las luces leds funcionen ponemos las resistencias de 220 ohmios en la salida negativa del led y los cables que dan la corriente en la parte positiva.
+Para que el interuptor funcione ponemos una resistencia de 10 kiloohmios en la parte negativa con un cable en la parte negativa y uno adicional.
+
+Primero cuando no estemos pulsando el interruptor se encendera el led verde y cuando pulsemos los otros leds que son de color rojo se iran intercalando con un delay
+de 2,5 segundos entre las dos.
+
