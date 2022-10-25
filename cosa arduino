@@ -16,7 +16,7 @@ La resistencia eléctrica es la oposición al flujo de corriente eléctrica a tr
 
 Utilizamos una resistencia, un led, dos cables, y un cable mas pequeño.
 
-De los dos cables uno se conecta a negativo y el otro a negativo y al mismo tiempo se conecta uno a GND y otro a 5v.
+De los dos cables uno se conecta a negativo y el otro a positivo y al mismo tiempo se conecta uno a GND y otro a 5v.
 
 La resistencia se conecta de positivo a la protoboard igual que el led y el cable pequeño.
 
