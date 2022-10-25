@@ -7,4 +7,40 @@ Para que el interuptor funcione ponemos una resistencia de 10 kiloohmios en la p
 
 Primero cuando no estemos pulsando el interruptor se encendera el led verde y cuando pulsemos los otros leds que son de color rojo se iran intercalando con un delay
 de 2,5 segundos entre las dos.
+Y utilizamos el siguiente codigo:
 
+
+const int LED1 = 3;
+const int LED2 = 4;
+const int LED3 = 5;
+const int IN1 = 2;
+const int IN2 = 7;
+int Estado1 = 0;
+void setup(){
+pinMode(LED1, OUTPUT);
+pinMode(LED2, OUTPUT);
+pinMode(LED3, OUTPUT);
+pinMode(IN1, INPUT);
+pinMode(IN2, INPUT);
+}
+
+void loop()
+{
+Estado1 = digitalRead(IN1) && digitalRead(IN2);
+
+if (Estado1==HIGH)
+{
+digitalWrite(LED1, HIGH);
+  delay(250);
+  digitalWrite(LED2, HIGH);
+  delay(250);
+    digitalWrite(LED3, HIGH);
+delay(250);
+} 
+  else {
+    digitalWrite(LED1, LOW);
+     digitalWrite(LED2, LOW);
+		digitalWrite(LED3, LOW);
+    delay(250);      
+  }
+}
