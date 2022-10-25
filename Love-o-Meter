@@ -1,3 +1,7 @@
 Love-o-Meter 
 
 Para el siguiente proyceto hemos necesitado; 2 leds, 3 resistencias de 220 Ohmios y un sensor de temperatura 
+
+Conectamos los leds con las resistencias en la entrada negativa y los cables de informacion en la entrada positiva.
+
+El sensor de temperatura
