@@ -1,6 +1,12 @@
-Para el indicador de estado de animo necesitamos un potenciometro, un servomotor, un brazo motor y un condensador polarizado.
+Para el indicador de estado de animo necesitamos un potenciometro, un servomotor, un brazo motor y 2 condensadores polarizado.
 
+Para que el circuito funcione se conecta el potenciometro con 3 cables uno positivo otro negativo y uno que la informacion ademas de un condensador polarizado 
+con el positiva mirando hacia arriba y el nagativo hacia abajo.
 
+El servomotor se conecta con los tres cables que son tierra con un cable negativo, señal, con un cable de informacion y potenncia con un cable positivo 
+ademas de un condensador polarizado.
+
+y para que todo funcione se necesita el siguiente codigo:
 
 #include <Servo.h>
 Servo myServo;
