@@ -1,0 +1,33 @@
+Para que el molinillo motorizado funcione se necesita 1 interruptor,1 motor, una bateria de 9v, un broche de bateria, un transitor mosfet, un diodo y una resistencia de 10k.
+
+Se conecta la bateria al positivo y al negativo, motor conectado al positivo y el negativo al diodo junto con un cable de informacion conectado al mosfet.
+Al mosfet se conecta un cable de informacion, un cable negativo y otro cable de informacion.
+Al interuptor se conecta la resistencia de 10k y un cable negativo, un cable positivo y otro de informacion.
+
+Y para que todo el circuito funcion se necesita este codigo: 
+
+
+const int switchPin = 3;
+const int motorPin = 9;
+
+int switchState = 0;
+
+void setup () {
+  pinMode(motorPin, OUTPUT);
+ 
+  pinMode(switchPin, INPUT);
+ 
+}
+
+void loop(){
+  switchState = digitalRead(switchPin);
+ 
+  if (switchState == HIGH) {
+    digitalWrite(motorPin, HIGH);
+    
+  }
+  else {
+    digitalWrite(motorPin, LOW);
+   
+  }
+} 
