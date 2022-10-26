@@ -1,3 +1,0 @@
-Para hacer el coche hemos necesitado una pila de 9v, 4 motores, 4 transitores mosfet, 4 diodo y 1 resistencia de 10kiloOhms.
-
-Para que los motores funcionen se conectan el positivo junto al diodo a la salida positiva y la salida negativa en la protoboard, un cable que le manda informacion,
